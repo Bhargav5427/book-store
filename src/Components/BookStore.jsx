@@ -46,21 +46,21 @@ const BookStore = () => {
                 <div className="rate">
                   <fieldset className="rating">
                     <input type="checkbox" id="star5" name="rating" value="5" />
-                    <label className="full" for="star5"></label>
+                    <label className="full" htmlFor="star5"></label>
                     <input type="checkbox" id="star4" name="rating" value="4" />
-                    <label className="full" for="star4"></label>
+                    <label className="full" htmlFor="star4"></label>
                     <input type="checkbox" id="star3" name="rating" value="3" />
-                    <label className="full" for="star3"></label>
+                    <label className="full" htmlFor="star3"></label>
                     <input type="checkbox" id="star2" name="rating" value="2" />
-                    <label className="full" for="star2"></label>
+                    <label className="full" htmlFor="star2"></label>
                     <input type="checkbox" id="star1" name="rating" value="1" />
-                    <label className="full" for="star1"></label>
+                    <label className="full" htmlFor="star1"></label>
                   </fieldset>
                   <span className="book-voters">1.987 voters</span>
                 </div>
                 <div className="book-sum">
                   Readers of all ages and walks of life have drawn inspiration
-                  and empowerment from Elizabeth Gilbert’s books for years.
+                  and empowerment from Elizabeth Gilbert’s books htmlFor years.
                 </div>
                 <div className="book-see">See The Book</div>
               </div>
@@ -81,25 +81,25 @@ const BookStore = () => {
                 <div className="rate">
                   <fieldset className="rating blue">
                     <input type="checkbox" id="star6" name="rating" value="5" />
-                    <label className="full1" for="star6"></label>
+                    <label className="full1" htmlFor="star6"></label>
                     <input type="checkbox" id="star7" name="rating" value="4" />
-                    <label className="full1" for="star7"></label>
+                    <label className="full1" htmlFor="star7"></label>
                     <input type="checkbox" id="star8" name="rating" value="3" />
-                    <label className="full1" for="star8"></label>
+                    <label className="full1" htmlFor="star8"></label>
                     <input type="checkbox" id="star9" name="rating" value="2" />
-                    <label className="full1" for="star9"></label>
+                    <label className="full1" htmlFor="star9"></label>
                     <input
                       type="checkbox"
                       id="star10"
                       name="rating"
                       value="1"
                     />
-                    <label className="full1" for="star10"></label>
+                    <label className="full1" htmlFor="star10"></label>
                   </fieldset>
                   <span className="book-voters">1.987 voters</span>
                 </div>
                 <div className="book-sum">
-                  The hunt for each splinter of Paul's soul sends Marguerite
+                  The hunt htmlFor each splinter of Paul's soul sends Marguerite
                   racing through a war-torn San Francisco.
                 </div>
                 <div className="book-see book-blue">See The Book</div>
@@ -116,7 +116,7 @@ const BookStore = () => {
                 />
               </div>
               <div className="book-content">
-                <div className="book-title">A Tale For The Time Being</div>
+                <div className="book-title">A Tale htmlFor The Time Being</div>
                 <div className="book-author">by Ruth Ozeki</div>
                 <div className="rate">
                   <fieldset className="rating purple">
@@ -126,35 +126,35 @@ const BookStore = () => {
                       name="rating"
                       value="5"
                     />
-                    <label className="full" for="star11"></label>
+                    <label className="full" htmlFor="star11"></label>
                     <input
                       type="checkbox"
                       id="star12"
                       name="rating"
                       value="4"
                     />
-                    <label className="full" for="star12"></label>
+                    <label className="full" htmlFor="star12"></label>
                     <input
                       type="checkbox"
                       id="star13"
                       name="rating"
                       value="3"
                     />
-                    <label className="full" for="star13"></label>
+                    <label className="full" htmlFor="star13"></label>
                     <input
                       type="checkbox"
                       id="star14"
                       name="rating"
                       value="2"
                     />
-                    <label className="full" for="star14"></label>
+                    <label className="full" htmlFor="star14"></label>
                     <input
                       type="checkbox"
                       id="star15"
                       name="rating"
                       value="1"
                     />
-                    <label className="full" for="star15"></label>
+                    <label className="full" htmlFor="star15"></label>
                   </fieldset>
                   <span className="book-voters">1.987 voters</span>
                 </div>
@@ -187,35 +187,35 @@ const BookStore = () => {
                       name="rating"
                       value="5"
                     />
-                    <label className="full" for="star16"></label>
+                    <label className="full" htmlFor="star16"></label>
                     <input
                       type="checkbox"
                       id="star17"
                       name="rating"
                       value="4"
                     />
-                    <label className="full" for="star17"></label>
+                    <label className="full" htmlFor="star17"></label>
                     <input
                       type="checkbox"
                       id="star18"
                       name="rating"
                       value="3"
                     />
-                    <label className="full" for="star18"></label>
+                    <label className="full" htmlFor="star18"></label>
                     <input
                       type="checkbox"
                       id="star19"
                       name="rating"
                       value="2"
                     />
-                    <label className="full" for="star19"></label>
+                    <label className="full" htmlFor="star19"></label>
                     <input
                       type="checkbox"
                       id="star20"
                       name="rating"
                       value="1"
                     />
-                    <label className="full" for="star20"></label>
+                    <label className="full" htmlFor="star20"></label>
                   </fieldset>
                   <span className="book-voters">1.987 voters</span>
                 </div>
@@ -247,41 +247,41 @@ const BookStore = () => {
                       name="rating"
                       value="5"
                     />
-                    <label className="full" for="star21"></label>
+                    <label className="full" htmlFor="star21"></label>
                     <input
                       type="checkbox"
                       id="star22"
                       name="rating"
                       value="4"
                     />
-                    <label className="full" for="star22"></label>
+                    <label className="full" htmlFor="star22"></label>
                     <input
                       type="checkbox"
                       id="star23"
                       name="rating"
                       value="3"
                     />
-                    <label className="full" for="star23"></label>
+                    <label className="full" htmlFor="star23"></label>
                     <input
                       type="checkbox"
                       id="star24"
                       name="rating"
                       value="2"
                     />
-                    <label className="full" for="star24"></label>
+                    <label className="full" htmlFor="star24"></label>
                     <input
                       type="checkbox"
                       id="star25"
                       name="rating"
                       value="1"
                     />
-                    <label className="full" for="star25"></label>
+                    <label className="full" htmlFor="star25"></label>
                   </fieldset>
                   <span className="book-voters">1.987 voters</span>
                 </div>
                 <div className="book-sum">
                   Louisa Clark is no longer just an ordinary girl living an
-                  ordinary life. After the transformative six months spent.
+                  ordinary life. After the transhtmlFormative six months spent.
                 </div>
                 <div className="book-see book-purple">See The Book</div>
               </div>

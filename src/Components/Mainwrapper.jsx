@@ -9,7 +9,7 @@ const Mainwrapper = () => {
             <div className="author-title">Author of the week</div>
             <div className="author">
               <img
-                src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80"
+                src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=htmlFormat&fit=crop&w=1400&q=80"
                 alt=""
                 className="author-img"
               />
@@ -17,7 +17,7 @@ const Mainwrapper = () => {
             </div>
             <div className="author">
               <img
-                src="https://images.unsplash.com/photo-1586297098710-0382a496c814?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+                src="https://images.unsplash.com/photo-1586297098710-0382a496c814?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=htmlFormat&fit=crop&w=1650&q=80"
                 alt=""
                 className="author-img"
               />
@@ -25,7 +25,7 @@ const Mainwrapper = () => {
             </div>
             <div className="author">
               <img
-                src="https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+                src="https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=htmlFormat&fit=crop&w=500&q=60"
                 alt=""
                 className="author-img"
               />
@@ -49,7 +49,7 @@ const Mainwrapper = () => {
             </div>
             <div className="author">
               <img
-                src="https://images.unsplash.com/photo-1546961329-78bef0414d7c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+                src="https://images.unsplash.com/photo-1546961329-78bef0414d7c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=htmlFormat&fit=crop&w=500&q=60"
                 alt=""
                 className="author-img"
               />
@@ -110,7 +110,7 @@ const Mainwrapper = () => {
               />
               <div className="year-book-content">
                 <div className="year-book-name">10 Minutes 38 Seconds</div>
-                <div className="year-book-author">by Elif Shafak</div>
+                <div className="yearhtmlhtmlFor-book-author">by Elif Shafak</div>
               </div>
             </div>
           </div>
@@ -159,41 +159,41 @@ const Mainwrapper = () => {
                         name="rating"
                         value="5"
                       />
-                      <label className="full" for="star-c1"></label>
+                      <label className="full" htmlFor="star-c1"></label>
                       <input
                         type="checkbox"
                         id="star-c2"
                         name="rating"
                         value="4"
                       />
-                      <label className="full" for="star-c2"></label>
+                      <label className="full" htmlFor="star-c2"></label>
                       <input
                         type="checkbox"
                         id="star-c3"
                         name="rating"
                         value="3"
                       />
-                      <label className="full" for="star-c3"></label>
+                      <label className="full" htmlFor="star-c3"></label>
                       <input
                         type="checkbox"
                         id="star-c4"
                         name="rating"
                         value="2"
                       />
-                      <label className="full" for="star-c4"></label>
+                      <label className="full" htmlFor="star-c4"></label>
                       <input
                         type="checkbox"
                         id="star-c5"
                         name="rating"
                         value="1"
                       />
-                      <label className="full" for="star-c5"></label>
+                      <label className="full" htmlFor="star-c5"></label>
                     </fieldset>
                     <span className="book-voters card-vote">1.987 voters</span>
                   </div>
                   <div className="book-sum card-sum">
                     Readers of all ages and walks of life have drawn inspiration
-                    and empowerment from Elizabeth Gilbert’s books for years.
+                    and empowerment from Elizabeth Gilbert’s books htmlFor years.
                   </div>
                 </div>
               </div>
@@ -214,7 +214,7 @@ const Mainwrapper = () => {
                 </div>
                 <div className="like-profile">
                   <img
-                    src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80"
+                    src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=htmlFormat&fit=crop&w=1400&q=80"
                     alt=""
                     className="like-img"
                   />
@@ -243,41 +243,41 @@ const Mainwrapper = () => {
                         name="rating"
                         value="5"
                       />
-                      <label className="full" for="star-c6"></label>
+                      <label className="full" htmlFor="star-c6"></label>
                       <input
                         type="checkbox"
                         id="star-c7"
                         name="rating"
                         value="4"
                       />
-                      <label className="full" for="star-c7"></label>
+                      <label className="full" htmlFor="star-c7"></label>
                       <input
                         type="checkbox"
                         id="star-c8"
                         name="rating"
                         value="3"
                       />
-                      <label className="full" for="star-c8"></label>
+                      <label className="full" htmlFor="star-c8"></label>
                       <input
                         type="checkbox"
                         id="star-c9"
                         name="rating"
                         value="2"
                       />
-                      <label className="full" for="star-c9"></label>
+                      <label className="full" htmlFor="star-c9"></label>
                       <input
                         type="checkbox"
                         id="star-c10"
                         name="rating"
                         value="1"
                       />
-                      <label className="full" for="star-c10"></label>
+                      <label className="full" htmlFor="star-c10"></label>
                     </fieldset>
                     <span className="book-voters card-vote">1.987 voters</span>
                   </div>
                   <div className="book-sum card-sum">
                     Readers of all ages and walks of life have drawn inspiration
-                    and empowerment from Elizabeth Gilbert’s books for years.
+                    and empowerment from Elizabeth Gilbert’s books htmlFor years.
                   </div>
                 </div>
               </div>
@@ -312,41 +312,41 @@ const Mainwrapper = () => {
                         name="rating"
                         value="5"
                       />
-                      <label className="full" for="star-c11"></label>
+                      <label className="full" htmlFor="star-c11"></label>
                       <input
                         type="checkbox"
                         id="star-c12"
                         name="rating"
                         value="4"
                       />
-                      <label className="full" for="star-c12"></label>
+                      <label className="full" htmlFor="star-c12"></label>
                       <input
                         type="checkbox"
                         id="star-c13"
                         name="rating"
                         value="3"
                       />
-                      <label className="full" for="star-c13"></label>
+                      <label className="full" htmlFor="star-c13"></label>
                       <input
                         type="checkbox"
                         id="star-c14"
                         name="rating"
                         value="2"
                       />
-                      <label className="full" for="star-c14"></label>
+                      <label className="full" htmlFor="star-c14"></label>
                       <input
                         type="checkbox"
                         id="star-c15"
                         name="rating"
                         value="1"
                       />
-                      <label className="full" for="star-c15"></label>
+                      <label className="full" htmlFor="star-c15"></label>
                     </fieldset>
                     <span className="book-voters card-vote">1.987 voters</span>
                   </div>
                   <div className="book-sum card-sum">
                     Readers of all ages and walks of life have drawn inspiration
-                    and empowerment from Elizabeth Gilbert’s books for years.
+                    and empowerment from Elizabeth Gilbert’s books htmlFor years.
                   </div>
                 </div>
               </div>
@@ -388,41 +388,41 @@ const Mainwrapper = () => {
                         name="rating"
                         value="5"
                       />
-                      <label className="full" for="star-c16"></label>
+                      <label className="full" htmlFor="star-c16"></label>
                       <input
                         type="checkbox"
                         id="star-c17"
                         name="rating"
                         value="4"
                       />
-                      <label className="full" for="star-c17"></label>
+                      <label className="full" htmlFor="star-c17"></label>
                       <input
                         type="checkbox"
                         id="star-18"
                         name="rating"
                         value="3"
                       />
-                      <label className="full" for="star-c18"></label>
+                      <label className="full" htmlFor="star-c18"></label>
                       <input
                         type="checkbox"
                         id="star-c19"
                         name="rating"
                         value="2"
                       />
-                      <label className="full" for="star-c19"></label>
+                      <label className="full" htmlFor="star-c19"></label>
                       <input
                         type="checkbox"
                         id="star-c20"
                         name="rating"
                         value="1"
                       />
-                      <label className="full" for="star-c20"></label>
+                      <label className="full" htmlFor="star-c20"></label>
                     </fieldset>
                     <span className="book-voters card-vote">1.987 voters</span>
                   </div>
                   <div className="book-sum card-sum">
                     Readers of all ages and walks of life have drawn inspiration
-                    and empowerment from Elizabeth Gilbert’s books for years.
+                    and empowerment from Elizabeth Gilbert’s books htmlFor years.
                   </div>
                 </div>
               </div>
@@ -443,7 +443,7 @@ const Mainwrapper = () => {
                 </div>
                 <div className="like-profile">
                   <img
-                    src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80"
+                    src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=htmlFormat&fit=crop&w=1400&q=80"
                     alt=""
                     className="like-img"
                   />
@@ -472,41 +472,41 @@ const Mainwrapper = () => {
                         name="rating"
                         value="5"
                       />
-                      <label className="full" for="star-c21"></label>
+                      <label className="full" htmlFor="star-c21"></label>
                       <input
                         type="checkbox"
                         id="star-c22"
                         name="rating"
                         value="4"
                       />
-                      <label className="full" for="star-c22"></label>
+                      <label className="full" htmlFor="star-c22"></label>
                       <input
                         type="checkbox"
                         id="star-c23"
                         name="rating"
                         value="3"
                       />
-                      <label className="full" for="star-c23"></label>
+                      <label className="full" htmlFor="star-c23"></label>
                       <input
                         type="checkbox"
                         id="star-c24"
                         name="rating"
                         value="2"
                       />
-                      <label className="full" for="star-c24"></label>
+                      <label className="full" htmlFor="star-c24"></label>
                       <input
                         type="checkbox"
                         id="star-c25"
                         name="rating"
                         value="1"
                       />
-                      <label className="full" for="star-c25"></label>
+                      <label className="full" htmlFor="star-c25"></label>
                     </fieldset>
                     <span className="book-voters card-vote">1.987 voters</span>
                   </div>
                   <div className="book-sum card-sum">
                     Readers of all ages and walks of life have drawn inspiration
-                    and empowerment from Elizabeth Gilbert’s books for years.
+                    and empowerment from Elizabeth Gilbert’s books htmlFor years.
                   </div>
                 </div>
               </div>
@@ -527,7 +527,7 @@ const Mainwrapper = () => {
                 </div>
                 <div className="like-profile">
                   <img
-                    src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80"
+                    src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=htmlFormat&fit=crop&w=1400&q=80"
                     alt=""
                     className="like-img"
                   />
@@ -556,41 +556,41 @@ const Mainwrapper = () => {
                         name="rating"
                         value="5"
                       />
-                      <label className="full" for="star-c1"></label>
+                      <label className="full" htmlFor="star-c1"></label>
                       <input
                         type="checkbox"
                         id="star-c2"
                         name="rating"
                         value="4"
                       />
-                      <label className="full" for="star-c2"></label>
+                      <label className="full" htmlFor="star-c2"></label>
                       <input
                         type="checkbox"
                         id="star-c3"
                         name="rating"
                         value="3"
                       />
-                      <label className="full" for="star-c3"></label>
+                      <label className="full" htmlFor="star-c3"></label>
                       <input
                         type="checkbox"
                         id="star-c4"
                         name="rating"
                         value="2"
                       />
-                      <label className="full" for="star-c4"></label>
+                      <label className="full" htmlFor="star-c4"></label>
                       <input
                         type="checkbox"
                         id="star-c5"
                         name="rating"
                         value="1"
                       />
-                      <label className="full" for="star-c5"></label>
+                      <label className="full" htmlFor="star-c5"></label>
                     </fieldset>
                     <span className="book-voters card-vote">1.987 voters</span>
                   </div>
                   <div className="book-sum card-sum">
                     Readers of all ages and walks of life have drawn inspiration
-                    and empowerment from Elizabeth Gilbert’s books for years.
+                    and empowerment from Elizabeth Gilbert’s books htmlFor years.
                   </div>
                 </div>
               </div>
@@ -604,7 +604,7 @@ const Mainwrapper = () => {
                 </div>
                 <div className="like-profile">
                   <img
-                    src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80"
+                    src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=htmlFormat&fit=crop&w=1400&q=80"
                     alt=""
                     className="like-img"
                   />
@@ -632,41 +632,41 @@ const Mainwrapper = () => {
                         name="rating"
                         value="5"
                       />
-                      <label className="full" for="star-c1"></label>
+                      <label className="full" htmlFor="star-c1"></label>
                       <input
                         type="checkbox"
                         id="star-c2"
                         name="rating"
                         value="4"
                       />
-                      <label className="full" for="star-c2"></label>
+                      <label className="full" htmlFor="star-c2"></label>
                       <input
                         type="checkbox"
                         id="star-c3"
                         name="rating"
                         value="3"
                       />
-                      <label className="full" for="star-c3"></label>
+                      <label className="full" htmlFor="star-c3"></label>
                       <input
                         type="checkbox"
                         id="star-c4"
                         name="rating"
                         value="2"
                       />
-                      <label className="full" for="star-c4"></label>
+                      <label className="full" htmlFor="star-c4"></label>
                       <input
                         type="checkbox"
                         id="star-c5"
                         name="rating"
                         value="1"
                       />
-                      <label className="full" for="star-c5"></label>
+                      <label className="full" htmlFor="star-c5"></label>
                     </fieldset>
                     <span className="book-voters card-vote">1.987 voters</span>
                   </div>
                   <div className="book-sum card-sum">
                     Readers of all ages and walks of life have drawn inspiration
-                    and empowerment from Elizabeth Gilbert’s books for years.
+                    and empowerment from Elizabeth Gilbert’s books htmlFor years.
                   </div>
                 </div>
               </div>
@@ -687,7 +687,7 @@ const Mainwrapper = () => {
                 </div>
                 <div className="like-profile">
                   <img
-                    src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80"
+                    src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=htmlFormat&fit=crop&w=1400&q=80"
                     alt=""
                     className="like-img"
                   />
@@ -716,41 +716,41 @@ const Mainwrapper = () => {
                         name="rating"
                         value="5"
                       />
-                      <label className="full" for="star-c1"></label>
+                      <label className="full" htmlFor="star-c1"></label>
                       <input
                         type="checkbox"
                         id="star-c2"
                         name="rating"
                         value="4"
                       />
-                      <label className="full" for="star-c2"></label>
+                      <label className="full" htmlFor="star-c2"></label>
                       <input
                         type="checkbox"
                         id="star-c3"
                         name="rating"
                         value="3"
                       />
-                      <label className="full" for="star-c3"></label>
+                      <label className="full" htmlFor="star-c3"></label>
                       <input
                         type="checkbox"
                         id="star-c4"
                         name="rating"
                         value="2"
                       />
-                      <label className="full" for="star-c4"></label>
+                      <label className="full" htmlFor="star-c4"></label>
                       <input
                         type="checkbox"
                         id="star-c5"
                         name="rating"
                         value="1"
                       />
-                      <label className="full" for="star-c5"></label>
+                      <label className="full" htmlFor="star-c5"></label>
                     </fieldset>
                     <span className="book-voters card-vote">1.987 voters</span>
                   </div>
                   <div className="book-sum card-sum">
                     Readers of all ages and walks of life have drawn inspiration
-                    and empowerment from Elizabeth Gilbert’s books for years.
+                    and empowerment from Elizabeth Gilbert’s books htmlFor years.
                   </div>
                 </div>
               </div>
@@ -764,7 +764,7 @@ const Mainwrapper = () => {
                 </div>
                 <div className="like-profile">
                   <img
-                    src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80"
+                    src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=htmlFormat&fit=crop&w=1400&q=80"
                     alt=""
                     className="like-img"
                   />
